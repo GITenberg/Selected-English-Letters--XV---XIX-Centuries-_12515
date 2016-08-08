@@ -1,0 +1,39 @@
+_repo: Selected-English-Letters--XV---XIX-Centuries-_12515
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Wragg, Harriet
+    birthdate: &id001 1881
+    gutenberg_agent_id: '4577'
+    url: http://www.gutenberg.org/2009/agents/4577
+  - agent_name: Duckitt, Mabel
+    birthdate: *id001
+    gutenberg_agent_id: '4576'
+    url: http://www.gutenberg.org/2009/agents/4576
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English letters'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Sir Thomas More -- Margaret Roper -- Roger Ascham -- Francis Bacon
+  -- Sir Thomas Browne -- John Milton -- John Evelyn -- Dame Dorothy Browne -- George,
+  Lord Berkeley -- Dorothy Osborne -- Katharine Philips -- John Locke -- Samuel Pepys
+  -- Jonathan Swift -- Joseph Addison -- Sir Richard Steele -- John Gay -- Alexander
+  Pope -- Samuel Richardson -- Lady Mary Wortley Montagu -- Philip Dormer Stanhope,
+  Earl of Chesterfield -- Samuel Johnson -- Laurence Sterne -- Thomas Gray -- Horace
+  Walpole -- Oliver Goldsmith -- William Cowper -- Edmund Burke -- Edward Gibbon --
+  Frances D'Arblay -- George Crabbe -- William Blake -- Mary Leadbeater -- Robert
+  Burns -- William Wordsworth -- Sir Walter Scott -- Samuel Taylor Coleridge -- Robert
+  Southey -- Charles Lamb -- William Hazlitt -- Leigh Hunt -- George Gordon Noel,
+  Lord Byron -- Percy Bysshe Shelley -- John Keats -- Thomas Hood -- Robert Browning
+  -- Elizabeth Barrett Browning -- Charlotte Brontë.
+title: Selected English Letters (XV - XIX Centuries)
+url: http://www.gutenberg.org/ebooks/12515
