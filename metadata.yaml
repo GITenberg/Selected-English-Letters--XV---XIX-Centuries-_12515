@@ -1,16 +1,21 @@
 _repo: Selected-English-Letters--XV---XIX-Centuries-_12515
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Wragg, Harriet
-    birthdate: &id001 1881
+    birthdate: 1881
     gutenberg_agent_id: '4577'
     url: http://www.gutenberg.org/2009/agents/4577
   - agent_name: Duckitt, Mabel
-    birthdate: *id001
+    birthdate: 1881
     gutenberg_agent_id: '4576'
     url: http://www.gutenberg.org/2009/agents/4576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12515#Selected-English-Letters--XV---XIX-Centuries-
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
